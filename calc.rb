@@ -11,4 +11,4 @@ def calculator_of_kilometers
   @kilometers_data * 1000.0
 end 
 
-puts "*#{calculator_of_kilometers} m"
+puts "#{calculator_of_kilometers} m"
